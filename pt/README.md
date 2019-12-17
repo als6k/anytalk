@@ -3,7 +3,7 @@
 Este README normalmente documenta as etapas necessárias para obter o
 aplicativo instalado e funcionando.
 
-Things you may want to cover:
+Coisas que você pode querer cobrir:
 
 - Versão Ruby
 
