@@ -1,13 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+هذا README يوثق عادة أي خطوات ضرورية للحصول على
+تطبيق وتشغيلها.
 
-Things you may want to cover:
+الأشياء التي قد ترغب في تغطيتها:
 
 - Ruby version
 
-- System dependencies
+- تبعيات النظام
 
 - ترتيب
 
